@@ -8,8 +8,8 @@ Home page will direct to add hotels and search hotels pages.
 To add a hotel fill the relevent fields and submit.
 To search a hotel there are 2 options.
 
- 1.By City
- 2.By Name
+1.By City
+2.By Name
  
 You can select any option and submit search query. 
  
